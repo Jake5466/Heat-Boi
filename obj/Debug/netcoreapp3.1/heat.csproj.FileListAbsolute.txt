@@ -1,0 +1,13 @@
+C:\Users\Pineapples.Ahoy\source\repos\heat\obj\Debug\netcoreapp3.1\heat.csprojAssemblyReference.cache
+C:\Users\Pineapples.Ahoy\source\repos\heat\obj\Debug\netcoreapp3.1\heat.csproj.CoreCompileInputs.cache
+C:\Users\Pineapples.Ahoy\source\repos\heat\obj\Debug\netcoreapp3.1\heat.AssemblyInfoInputs.cache
+C:\Users\Pineapples.Ahoy\source\repos\heat\obj\Debug\netcoreapp3.1\heat.AssemblyInfo.cs
+C:\Users\Pineapples.Ahoy\source\repos\heat\bin\Debug\netcoreapp3.1\heat.exe
+C:\Users\Pineapples.Ahoy\source\repos\heat\bin\Debug\netcoreapp3.1\heat.deps.json
+C:\Users\Pineapples.Ahoy\source\repos\heat\bin\Debug\netcoreapp3.1\heat.runtimeconfig.json
+C:\Users\Pineapples.Ahoy\source\repos\heat\bin\Debug\netcoreapp3.1\heat.runtimeconfig.dev.json
+C:\Users\Pineapples.Ahoy\source\repos\heat\bin\Debug\netcoreapp3.1\heat.dll
+C:\Users\Pineapples.Ahoy\source\repos\heat\bin\Debug\netcoreapp3.1\heat.pdb
+C:\Users\Pineapples.Ahoy\source\repos\heat\obj\Debug\netcoreapp3.1\heat.dll
+C:\Users\Pineapples.Ahoy\source\repos\heat\obj\Debug\netcoreapp3.1\heat.pdb
+C:\Users\Pineapples.Ahoy\source\repos\heat\obj\Debug\netcoreapp3.1\heat.genruntimeconfig.cache

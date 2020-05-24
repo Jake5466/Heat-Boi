@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pineapples.Ahoy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pineapples.Ahoy\\.nuget\\packages"
+    ]
+  }
+}
