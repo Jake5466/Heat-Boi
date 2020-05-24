@@ -43,7 +43,9 @@ namespace heat
             }
             for(int y = 0;y <=11; y++)
             { Console.WriteLine(ff[y]); }
+            Console.WriteLine("Heat Solver Done");
             Console.ReadLine();
         }
+        
     }
 }
